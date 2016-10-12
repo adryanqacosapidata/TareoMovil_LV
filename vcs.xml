@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/adryanqacosapidata/ecosac_tareomovil.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/adryanqacosapidata/Adryan_V4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Desarollos\Ecosac\Tareo_Movil\TareoMovil_LV" />
+    <option name="cloneParentDir" value="D:\Desarollos\Ecosac\Adryan_V4" />
   </component>
 </application>
